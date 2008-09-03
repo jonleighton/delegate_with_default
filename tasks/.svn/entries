@@ -1,0 +1,40 @@
+8
+
+dir
+611
+svn://67.207.128.158/insight/trunk/vendor/plugins/delegate_with_default/tasks
+svn://67.207.128.158
+
+
+
+2008-07-04T15:37:42.825327Z
+340
+jonleighton
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a67ebef2-6040-0410-8d88-dcb8d9a9166a
+
+delegate_with_default_tasks.rake
+file
+
+
+
+
+2008-07-04T15:32:35.000000Z
+5fd0eaeac8604599fd3c25545dc28b8a
+2008-07-04T15:37:42.825327Z
+340
+jonleighton
+

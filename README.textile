@@ -1,0 +1,5 @@
+h2. Delegate with Default
+
+This Rails plugin redefines the @Module#delegate@ method to allow a @:default@ option.
+If the object we are delegating to is nil, the default will be returned instead of an
+exception being raised. See "the blog post":http://jonathanleighton.com/blog/rails-delegate-default-option.
